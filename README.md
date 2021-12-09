@@ -1,1 +1,1 @@
-# oop-practice-game
+Practicing Object-Oriented Programming in a simple game
